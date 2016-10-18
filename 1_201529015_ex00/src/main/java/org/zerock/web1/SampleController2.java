@@ -17,9 +17,9 @@ public class SampleController2 {
 		
 		logger.info("doC called..............................");
 		
-		return "result";//result.jsp가 실행된다.
+		return "result";
 		
 	}
 }
 
-
+ 
