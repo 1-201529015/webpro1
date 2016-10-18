@@ -27,10 +27,10 @@
 	        value="net.sf.log4jdbc.sql.jdbcapi.DriverSpy"></property>
 	        
 	<property name="url" 
-	        value="jdbc:log4jdbc:mysql://127.0.0.1:3306/book_ex"></property>
+	        value="jdbc:log4jdbc:mysql://127.0.0.1:3306/1_201529015_book_ex"></property>
 	        
-	<property name="username" value="zerock"></property>
-	<property name="password" value="zerock"></property>
+	<property name="username" value="201529015"></property>
+	<property name="password" value="201529015"></property>
 	
 </bean>	
 
